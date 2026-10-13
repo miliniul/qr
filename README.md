@@ -81,4 +81,4 @@ I used it as a learning aid, testing the suggestions in my project to better und
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/miliniul)
+- Frontend Mentor - [@miliniul](https://www.frontendmentor.io/profile/miliniul)
