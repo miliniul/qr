@@ -42,6 +42,7 @@ footer {
     padding: 16px 16px 40px 16px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 20px;
+    box-shadow: 0px 25px 25px 0px rgb(0 0 0 / 4.77%);
 }
 
 .qr-img {
